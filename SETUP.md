@@ -77,6 +77,9 @@ You do not need every tool. Pick the one you will use during the session.
 | B2 | Claude Code app | Desktop Claude workflow |
 | C | Cursor | IDE-first workflow |
 
+Detailed lane manuals live in [`tool-lanes/`](tool-lanes/). Use them after the
+basic install succeeds.
+
 Tool surfaces change quickly. For all installs, use the official docs in
 [`docs/sources.md`](docs/sources.md) and verify labels, commands, and feature
 availability in your installed version.

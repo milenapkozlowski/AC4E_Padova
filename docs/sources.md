@@ -17,8 +17,11 @@ references in participant-facing Padova orientation files.
 ## Codex
 
 - Codex docs: <https://developers.openai.com/codex/>
+- Codex CLI: <https://developers.openai.com/codex/cli/>
+- Codex app: <https://developers.openai.com/codex/app/>
 - Codex AGENTS.md guide: <https://developers.openai.com/codex/guides/agents-md/>
 - Codex web/cloud: <https://developers.openai.com/codex/cloud/>
+- Codex GitHub integration: <https://developers.openai.com/codex/integrations/github/>
 - Codex hooks: <https://developers.openai.com/codex/hooks>
 - Codex skills: <https://developers.openai.com/codex/skills>
 - Codex subagents: <https://developers.openai.com/codex/subagents>
@@ -28,16 +31,19 @@ references in participant-facing Padova orientation files.
 
 - Claude Code overview: <https://code.claude.com/docs/en/overview>
 - Claude Code settings: <https://code.claude.com/docs/en/settings>
+- Claude Code CLI reference: <https://code.claude.com/docs/en/cli-reference>
 - Claude Code skills: <https://code.claude.com/docs/en/skills>
 - Claude Code subagents: <https://code.claude.com/docs/en/sub-agents>
 - Claude Code hooks: <https://code.claude.com/docs/en/hooks>
 - Claude Code hooks guide: <https://code.claude.com/docs/en/hooks-guide>
+- Claude Code MCP: <https://code.claude.com/docs/en/mcp>
 
 ## Cursor
 
 - Cursor docs: <https://cursor.com/docs>
 - Cursor CLI overview: <https://cursor.com/docs/cli/overview>
 - Cursor rules and AGENTS.md: <https://cursor.com/docs/rules>
+- Cursor rules markdown: <https://cursor.com/docs/rules.md>
 - Cursor skills: <https://cursor.com/docs/skills>
 - Cursor subagents: <https://cursor.com/docs/subagents>
 - Cursor hooks: <https://cursor.com/docs/hooks>

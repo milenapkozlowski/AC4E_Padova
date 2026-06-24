@@ -62,6 +62,13 @@ By the end of the session, each participant should have at least a draft of:
 |   +-- module_04_playwright.md
 |   +-- module_05_capstone.md
 |   +-- tool_tracks.md
++-- tool-lanes/
+|   +-- README.md
+|   +-- codex-cli.md
+|   +-- codex-app.md
+|   +-- claude-cli.md
+|   +-- claude-app.md
+|   +-- cursor.md
 +-- examples/
 |   +-- card-krueger/
 |   +-- starter_article/
@@ -91,6 +98,8 @@ actually use:
 | B1 | Claude Code CLI | `examples/claude/` |
 | B2 | Claude Code app | `examples/claude-app/` plus `examples/claude/` |
 | C | Cursor | `examples/cursor/` |
+
+Detailed lane manuals live in [`tool-lanes/`](tool-lanes/).
 
 Tool UI and configuration details change quickly. When a setup step depends on
 the installed version, use the official links in [`docs/sources.md`](docs/sources.md)

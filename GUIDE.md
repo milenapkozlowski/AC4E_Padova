@@ -70,11 +70,11 @@ Pick one tool family and follow the matching examples.
 
 | Lane | Files to inspect first |
 | --- | --- |
-| Codex CLI | `examples/codex/README.md`, `examples/hooks/README.md` |
-| Codex app | `examples/codex-app/README.md`, then Codex CLI files as reference |
-| Claude Code CLI | `examples/claude/README.md` |
-| Claude Code app | `examples/claude-app/README.md`, then Claude CLI files as reference |
-| Cursor | `examples/cursor/README.md` |
+| Codex CLI | `tool-lanes/codex-cli.md`, `examples/codex/README.md`, `examples/hooks/README.md` |
+| Codex app | `tool-lanes/codex-app.md`, then Codex CLI files as reference |
+| Claude Code CLI | `tool-lanes/claude-cli.md`, `examples/claude/README.md` |
+| Claude Code app | `tool-lanes/claude-app.md`, then Claude CLI files as reference |
+| Cursor | `tool-lanes/cursor.md`, `examples/cursor/README.md` |
 
 Version-sensitive UI labels, settings, and feature names change. Use
 [`docs/sources.md`](docs/sources.md) for official docs and verify in your

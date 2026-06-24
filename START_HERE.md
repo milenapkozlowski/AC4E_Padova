@@ -18,6 +18,7 @@ Keep these files open:
 - [`GUIDE.md`](GUIDE.md) - explanations and copy-paste prompts.
 - [`materials/tool_tracks.md`](materials/tool_tracks.md) - Codex, Claude Code,
   and Cursor lanes.
+- [`tool-lanes/`](tool-lanes/) - detailed lane manuals for CLI/app surfaces.
 - [`examples/card-krueger/`](examples/card-krueger/) - shared runnable economics
   example.
 - [`examples/starter_article/`](examples/starter_article/) - shared mini repo.
@@ -44,6 +45,7 @@ Keep these files open:
 | Project brief | `templates/project_brief.md` or `examples/starter_article/docs/project_brief.md` |
 | Design memo | `templates/research_design_memo.md` or `examples/starter_article/docs/research_design_memo.md` |
 | Agent instructions | `templates/AGENTS_economics.md` |
+| Tool-lane manual | `tool-lanes/` |
 | Tool-lane harness | `examples/{codex,claude,cursor}/` |
 | Orchestration log | `examples/starter_article/notes/orchestration_log.md` |
 | Review log | `templates/review_log.md` |
